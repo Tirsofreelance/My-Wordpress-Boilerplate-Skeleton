@@ -1,3 +1,6 @@
 [submodule "wp"]
 	path = wp
 	url = git://github.com/WordPress/WordPress.git
+[submodule "Search-Replace-DB"]
+	path = Search-Replace-DB
+	url = git://github.com/interconnectit/Search-Replace-DB.git
